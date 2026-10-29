@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://lallavedelajuderia.es/",
+ "read_at": "2026-10-29T04:45:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://lallavedelajuderia.es/",
+   "sha256": "a0a7bcf20efb3099d588857162a2220078ef006769917b42a2b5c01a977a9e21",
+   "chars": 34012
+  },
+  {
+   "url": "https://lallavedelajuderia.es/contacto/",
+   "sha256": "40b88c18d8a0270890f61ff0ac16f63a5fdd407a1647558c83bd3211f5d71827",
+   "chars": 32211
+  },
+  {
+   "url": "https://lallavedelajuderia.es/el-hotel/",
+   "sha256": "fc63619849384b4571bae6f67706cef27f5d3052d24cc08c595e539de28a2703",
+   "chars": 34802
+  },
+  {
+   "url": "https://lallavedelajuderia.es/habitaciones/",
+   "sha256": "29e938412041d5e6d0cde4186261e2b3adc1945d2e59d7f88a06dd3cdefdfb02",
+   "chars": 32966
+  },
+  {
+   "url": "https://lallavedelajuderia.es/servicios/",
+   "sha256": "0785d7d96d488d8a5168781bb9b3d6ddc792a15cab80911b2f0c5391730a35d0",
+   "chars": 34178
+  }
+ ],
+ "other_pages_read": [
+  "https://lallavedelajuderia.es",
+  "https://lallavedelajuderia.es/blog/",
+  "https://lallavedelajuderia.es/cordoba-una-ciudad-unica-en-el-mundo/",
+  "https://lallavedelajuderia.es/de-ruta-por-cordoba/",
+  "https://lallavedelajuderia.es/harry-potter-y-la-llave-filosofal/",
+  "https://lallavedelajuderia.es/historias-y-leyendas-el-fantasma-del-cristo-de-los-faroles/",
+  "https://lallavedelajuderia.es/historias-y-leyendas-la-casa-de-los-horrores/",
+  "https://lallavedelajuderia.es/historias-y-leyendas-la-estrella-de-los-deseos/",
+  "https://lallavedelajuderia.es/mayo-cordobes/",
+  "https://lallavedelajuderia.es/patios-de-cordoba/",
+  "https://lallavedelajuderia.es/reserva-ahora-tu-estancia/"
+ ]
+}

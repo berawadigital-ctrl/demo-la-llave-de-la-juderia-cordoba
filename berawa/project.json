@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-la-llave-de-la-juderia-cordoba",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T04:47:00+01:00",
+ "updated_at": "2026-10-29T04:49:00+01:00",
+ "business": {
+  "name": "La Llave de la Judería Hotel Boutique",
+  "legal_name": "La Llave de la Judería S.L.U.",
+  "registry_ids": [
+   "CIF B56044647"
+  ],
+  "url": "https://lallavedelajuderia.es/",
+  "domain": "lallavedelajuderia.es",
+  "municipality": "Córdoba",
+  "province": "Córdoba",
+  "address": "C/ Romero 38 · 14003 Córdoba",
+  "phones": [
+   "957 29 48 08"
+  ],
+  "emails": [
+   "info@lallavedelajuderia.es"
+  ],
+  "sector": "hotel boutique en tres casas rehabilitadas"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Boutique+La+Llave+de+la+Juder%C3%ADa/@37.8803737,-4.7823423,17z/data=!4m9!3m8!1s0xd6d209d9f13c199:0xdff9c28197b04ea3!5m2!4m1!1i2!8m2!3d37.8803737!4d-4.7823423!16s%2Fg%2F1thgct2t",
+  "date": "2026-10-29T04:26:55+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "info@lallavedelajuderia.es",
+  "note": "La web del negocio tiene su propio formulario de reserva; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://lallavedelajuderia.es/",
+  "date": "2026-10-29T04:47:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel urbano con precedente en demos de esta tanda",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

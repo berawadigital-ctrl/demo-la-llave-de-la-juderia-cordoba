@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "la-llave-de-la-juderia-cordoba",
+ "maps": {
+  "fecha": "2026-10-29T04:26:55+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Boutique La Llave de la Judería",
+  "nota": 4.8,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Boutique+La+Llave+de+la+Juder%C3%ADa/@37.8803737,-4.7823423,17z/data=!4m9!3m8!1s0xd6d209d9f13c199:0xdff9c28197b04ea3!5m2!4m1!1i2!8m2!3d37.8803737!4d-4.7823423!16s%2Fg%2F1thgct2t",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T04:26:55+01:00",
+  "veredicto": "MEJORABLE",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "LA LLAVE DE LA JUDERÍA, S.L.U.",
+  "cif": "B56044647",
+  "fuente": "https://lallavedelajuderia.es/contacto/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Política de privacidad de la propia web: titular La Llave de la Judería, SLU (persona jurídica, socio y administrador único persona física pero sociedad); un solo hotel formado por tres casas; no cadena."
+ }
+}
