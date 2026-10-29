@@ -1,0 +1,445 @@
+{
+ "url": "http://127.0.0.1:37087/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene nueve habitaciones, cada una con nombre propio: Miguel del Moral, Rafael Ortíz Meléndez-Valdés, Julio Romero de Torres, Antonio del Ca"
+    },
+    {
+     "q": "¿Qué servicios tiene?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sus servicios incluyen recepción 24h, minibar con agua de cortesía, atención multilingüe, cafetería, mozo de equipajes, bañera hidromasaje, "
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: ofrecen wifi gratuito."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El hotel cuenta con parking propio 24h. Hay que reservar la plaza antes de la llegada; se accede por la calle Tejón y Marín hacia la calle A"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ofrecen desayuno en habitación, y el Patio del Pozo es un lugar donde desayunar en un acogedor patio andaluz. Su web no indica si está inclu"
+    },
+    {
+     "q": "¿Hay patio?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Tiene la Sala del Rey, decorada al estilo Luis XV, el Patio del Pozo con una fuente, el Patio del Olivo con un olivo de Baena y un mosaico d"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la C/ Romero 38, 14003 Córdoba, en pleno centro histórico, a escasos metros de los lugares de interés y a un paso de la Mezquita. La"
+    },
+    {
+     "q": "¿Hay habitación adaptada?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí: figura una habitación adaptada con ducha entre sus servicios."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web tiene un formulario de reserva con «mejor precio online garantizado». También puedes escribir a info@lallavedelajuderia.es o llamar a"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Teléfono 957 29 48 08 o +34687805518; correo info@lallavedelajuderia.es."
+    },
+    {
+     "q": "¿Qué historia tiene el edificio?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "El hotel está formado por tres casas rehabilitadas con el máximo respeto a su arquitectura, conservando la autenticidad de su historia en ca"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Su política de privacidad indica como titular del sitio web a La Llave de la Judería, SLU, CIF B56044647."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web tiene un formulario de reserva con «mejor precio online garantizado». También puedes escribir a info@lallavedelajuderia.es o llamar a"
+    }
+   ],
+   "chips": [
+    "¿Qué servicios tiene?",
+    "¿Hay parking?",
+    "¿Hay habitación adaptada?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té nou habitacions, cadascuna amb nom propi: Miguel del Moral, Rafael Ortíz Meléndez-Valdés, Julio Romero de Torres, Antonio del Castillo, P"
+    },
+    {
+     "q": "Quins serveis té?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Els seus serveis inclouen recepció 24h, minibar amb aigua de cortesia, atenció multilingüe, cafeteria, moll d'equipatges, banyera d'hidromas"
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: ofereixen wifi gratuït."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hotel té pàrquing propi 24h. Cal reservar la plaça abans de l'arribada; s'hi accedeix pel carrer Tejón y Marín cap al carrer Almanzor. Con"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ofereixen esmorzar a l'habitació, i el Pati del Pou és un lloc on esmorzar en un acollidor pati andalús. La seva web no indica si està inclò"
+    },
+    {
+     "q": "Hi ha pati?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Té la Sala del Rei, decorada a l'estil Lluís XV, el Pati del Pou amb una font, el Pati de l'Olivera amb una olivera de Baena i un mosaic d'è"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al C/ Romero 38, 14003 Còrdova, en ple centre històric, a pocs metres dels llocs d'interès i a un pas de la Mesquita. L'entrada és pel ca"
+    },
+    {
+     "q": "Hi ha habitació adaptada?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí: figura una habitació adaptada amb dutxa entre els seus serveis."
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web té un formulari de reserva amb «millor preu en línia garantit». També pots escriure a info@lallavedelajuderia.es o trucar al 957"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Telèfon 957 29 48 08 o +34687805518; correu info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Quina història té l'edifici?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "L'hotel està format per tres cases rehabilitades amb el màxim respecte a la seva arquitectura, conservant l'autenticitat de la seva història"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "La seva política de privacitat indica com a titular del lloc web La Llave de la Judería, SLU, CIF B56044647."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web té un formulari de reserva amb «millor preu en línia garantit». També pots escriure a info@lallavedelajuderia.es o trucar al 957"
+    }
+   ],
+   "chips": [
+    "Quins serveis té?",
+    "Hi ha pàrquing?",
+    "Hi ha habitació adaptada?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has nine rooms, each with its own name: Miguel del Moral, Rafael Ortíz Meléndez-Valdés, Julio Romero de Torres, Antonio del Castillo, Ped"
+    },
+    {
+     "q": "What services are there?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Its services include 24h reception, minibar with complimentary water, multilingual service, cafeteria, luggage porter, hydromassage bathtub,"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: they offer free wifi."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The hotel has its own 24h car park. You need to reserve a space before arrival; access is via Calle Tejón y Marín towards Calle Almanzor. As"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "They offer breakfast in the room, and the Patio del Pozo is a place to have breakfast in a cosy Andalusian patio. Their website does not say"
+    },
+    {
+     "q": "Is there a patio?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It has the Sala del Rey, decorated in Louis XV style, the Patio del Pozo with a fountain, the Patio del Olivo with an olive tree from Baena "
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at C/ Romero 38, 14003 Córdoba, in the heart of the historic centre, a few metres from the sights and a step from the Mosque. The entr"
+    },
+    {
+     "q": "Is there an adapted room?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes: an adapted room with a shower is listed among their services."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Their website has a booking form with «best online price guaranteed». You can also email info@lallavedelajuderia.es or call 957 29 48 08. Th"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Phone 957 29 48 08 or +34687805518; email info@lallavedelajuderia.es."
+    },
+    {
+     "q": "What history does the building have?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "The hotel is made up of three houses restored with the utmost respect for their architecture, keeping the authenticity of their history in e"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Their privacy policy names La Llave de la Judería, SLU, CIF B56044647, as the owner of the website."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Their website has a booking form with «best online price guaranteed». You can also email info@lallavedelajuderia.es or call 957 29 48 08. Th"
+    }
+   ],
+   "chips": [
+    "What services are there?",
+    "Is there parking?",
+    "Is there an adapted room?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte neuf chambres, chacune avec son propre nom : Miguel del Moral, Rafael Ortíz Meléndez-Valdés, Julio Romero de Torres, Antonio del C"
+    },
+    {
+     "q": "Quels services y a-t-il ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ses services comprennent réception 24h, minibar avec eau de courtoisie, accueil multilingue, cafétéria, bagagiste, baignoire d'hydromassage,"
+    },
+    {
+     "q": "Y a-t-il du wifi ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : ils offrent le wifi gratuit."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hôtel dispose de son propre parking 24h. Il faut réserver la place avant l'arrivée ; l'accès se fait par la calle Tejón y Marín vers la ca"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ils proposent le petit-déjeuner en chambre, et le Patio del Pozo est un endroit pour petit-déjeuner dans un patio andalou accueillant. Leur "
+    },
+    {
+     "q": "Y a-t-il un patio ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il possède la Sala del Rey, décorée dans le style Louis XV, le Patio del Pozo avec une fontaine, le Patio del Olivo avec un olivier de Baena"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve C/ Romero 38, 14003 Cordoue, en plein centre historique, à quelques mètres des lieux d'intérêt et à deux pas de la Mosquée. L'e"
+    },
+    {
+     "q": "Y a-t-il une chambre adaptée ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui : une chambre adaptée avec douche figure parmi leurs services."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Leur site a un formulaire de réservation avec «meilleur prix en ligne garanti». Vous pouvez aussi écrire à info@lallavedelajuderia.es ou app"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Téléphone 957 29 48 08 ou +34687805518 ; e-mail info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Quelle histoire a le bâtiment ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "L'hôtel est composé de trois maisons rénovées avec le plus grand respect de leur architecture, en conservant l'authenticité de leur histoire"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Leur politique de confidentialité désigne La Llave de la Judería, SLU, CIF B56044647, comme titulaire du site web."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 957 29 48 08 · info@lallavedelajuderia.es."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Leur site a un formulaire de réservation avec «meilleur prix en ligne garanti». Vous pouvez aussi écrire à info@lallavedelajuderia.es ou app"
+    }
+   ],
+   "chips": [
+    "Quels services y a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Y a-t-il une chambre adaptée ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
